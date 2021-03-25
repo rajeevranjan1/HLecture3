@@ -17,5 +17,6 @@ def binarySearch(list,target):
             first=mid+1
         else:
             last=mid-1
+
     return None
 
